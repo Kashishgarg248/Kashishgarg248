@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Kashish Garg!
+## About Me
+- 🌱 I’m currently learning: Advanced CSS, WordPress, and Matplotlib.
+- 💻 I’m working on: [Flavor Haven](https://github.com/your-repo).
+- 🛠️ Skills: HTML, CSS, JavaScript, C, C++, DSA, Python, Shopify, WordPress.
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kashish-garg-7a3763298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B248kiYD%2BRem6xacqJ1TtHQ%3D%3D)
 
-<!--
-**Kashishgarg248/Kashishgarg248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Badges
+![HTML](https://img.shields.io/badge/Code-HTML-blue)
+![CSS](https://img.shields.io/badge/Code-CSS-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GSSoC Badges
